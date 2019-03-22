@@ -1,7 +1,7 @@
 ## This package contains various common number theoretic algorithms which include :-
 * __Primality testing__ - Navie approach, Fermat's method, Miller Rabin and Pocklington's test
 * __Interger Factorisation__ - Pollard Rho's Method
-* __Miscellaneous__ - Modular exponentiation, GCD, Large no. multiplication, Pseudo representaion
+* __Miscellaneous__ - Modular exponentiation, GCD, Large no. multiplication, Pseudo representation
 
 ## This package also contains implementation of different cryptosystems like :-
 * __Ceaser System__
